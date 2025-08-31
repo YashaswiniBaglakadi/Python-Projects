@@ -32,5 +32,9 @@ https://github.com/YashaswiniBaglakadi/Diwali-sales.git
 - Highest sales came from Uttar Pradesh, Maharashtra, and Karnataka.
 - Customers in IT, Healthcare, and Aviation spent the most.
 - Food, Clothing, and Electronics were the top product categories.
+**4.USA-House-Price-Prediction**
+- This notebook analyzes Housing Price detection in USA using machine learning techniques
 
+**Github repo**
+https://github.com/YashaswiniBaglakadi/USA-House-Price-Prediction.git
 
